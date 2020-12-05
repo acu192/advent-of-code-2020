@@ -28,8 +28,7 @@ The standard way to set up your stuff to before solving (do this a few minutes b
 mkdir day01
 cd day01
 cp ../t.py s.py
-aocd > input
-vim input s.py
+aocd > input && vim input s.py
 ```
 
 ### PyPy
