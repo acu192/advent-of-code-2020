@@ -11,25 +11,10 @@ with open('input', 'rt') as f:
     s = f.read().strip()
     #vals = re.findall('-?\d+', s)
 
+...
 
-def part1(s):
-    ...
+a = ...
 
-    a = ...
-
-    print(a)
-    #submit(a)
-
-
-def part2(s):
-    ...
-
-    a = ...
-
-    print(a)
-    #submit(a)
-
-
-part1(s)
-#part2(s)
+print(a)
+#submit(a)
 
